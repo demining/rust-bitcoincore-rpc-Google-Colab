@@ -2,6 +2,15 @@
 
 # Rust RPC client for Bitcoin Core JSON-RPC 
 
+
+-------------------------
+### Run Google-Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 This is a Rust RPC client library for calling the Bitcoin Core JSON-RPC API. It provides a layer of abstraction over 
 [rust-jsonrpc](https://github.com/apoelstra/rust-jsonrpc) and makes it easier to talk to the Bitcoin JSON-RPC interface 
 
