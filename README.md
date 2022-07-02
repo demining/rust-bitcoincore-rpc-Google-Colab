@@ -69,3 +69,10 @@ cargo update --package "serde" --precise "1.0.98"
 cargo update --package "serde_derive" --precise "1.0.98"
 cargo update --package "byteorder" --precise "1.3.4"
 ```
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
